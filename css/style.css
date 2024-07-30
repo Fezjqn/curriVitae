@@ -1,0 +1,197 @@
+* { 
+
+    box-sizing: border-box; 
+
+    margin: 0; 
+
+    padding: 0; 
+
+   } 
+
+   html { 
+
+    font-size: 62.5%; 
+
+   } 
+
+   body{  
+
+    margin:0;  
+
+    background:URL('https://xtrafondos.com/wallpapers/montanas-con-nieve-en-el-bosque-3934.jpg'); 
+
+    padding: 0;  
+
+   }  
+
+   .curriculum-name{  
+
+    width:100%;  
+
+    background-color: #0096c7;  
+
+    height: 500px;  
+
+    transform:skewY(3deg);  
+
+    border-radius: 50%; 
+
+   }  
+
+   .curriculum-name__content{  
+
+    width:50%;  
+
+    height:50%;  
+
+    position:absolute;  
+
+    left:35%;  
+
+    }  
+
+   .curriculum-name__item--1{  
+
+    color:#fff8f0;  
+
+    font-family: Ubuntu, sans-serif, monospace;  
+
+    font-weight: bolder;  
+
+    font-size: 5rem;  
+
+    transform: skewY(-3deg);  
+
+    margin-bottom: 0;  
+
+   }  
+
+   .curriculum-name__item--2{  
+
+    color:#fff8f0;  
+
+    font-family: Ubuntu, sans-serif, monospace;  
+
+    font-size: 3rem;  
+
+    transform: skewY(-3deg);  
+
+    margin-bottom: 0;  
+
+    margin-top: 0;  
+
+   }  
+
+   .curriculum-name__img{  
+
+    position: absolute;  
+
+    top:25%;  
+
+    right:5%;  
+
+    width: 220px;  
+
+    height: 250px;  
+
+    border-radius:100%;  
+
+    transform: skewY(-2deg);  
+
+    overflow: hidden;  
+
+   } 
+
+   .curriculum-name__profile {  
+
+    width: 185px;  
+
+    height: 200px;  
+
+   }  
+
+   .curriculum-info{  
+
+    width: 50%;  
+
+    height: auto;  
+
+    background-color: #e63946;  
+
+    margin:5% auto;  
+
+    padding: 20px;  
+
+   }  
+
+   .curriculum-info__title-section{  
+
+    color: white; 
+
+    font-family: Ubuntu, sans-serif, monospace;  
+
+    font-size:3.0rem;  
+
+    text-align: center;  
+
+    font-weight: bolder;  
+
+    border-bottom:0.4rem #fff8f0 dashed;  
+
+   }  
+
+   .curriculum-info__title-info{  
+
+    color: white; 
+
+    font-family: Ubuntu, sans-serif, monospace;  
+
+    font-weight: bolder;  
+
+    font-size: large;  
+
+    display:inline;  
+
+    margin-right: 20px;  
+
+    font-size:2.0rem; 
+
+   }  
+
+   .curriculum-info__info-info{ 
+
+    color: white;  
+
+    font-family: Ubuntu, sans-serif;  
+
+    font-weight: normal;  
+
+    font-size: 2.0rem;  
+
+    display: inline;  
+
+   }  
+
+   .curriculum-info__span-title{  
+
+    font-size: 1.6rem; 
+
+    display: inline-block;  
+
+    margin-top: 1%; 
+
+    padding-left: 1%;  
+
+    padding-right: 1%;  
+
+    background: #211A1D;  
+
+    color: white;  
+
+    font-family: Ubuntu, 'Monserrat', sans-serif;  
+
+    border-radius: 2.5rem; 
+
+   } 
+
+ 
